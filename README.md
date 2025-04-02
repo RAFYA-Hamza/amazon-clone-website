@@ -1,4 +1,4 @@
-# amazon-clone-website
+# Amazon Clone Website
 
 # Welcome!
 
